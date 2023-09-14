@@ -1,6 +1,6 @@
 # Hi I'm Domenico and I'm a full-stack software developer.
 ### I have knowledge in HTML, CSS, JavaScript, Tailwind, Express.js, EJS, Node.js, MongoDB and Figma.
-### I'm currently learning React.
+### I'm currently learning React. Looking to build something to deal with street parking 🛻 😑
 <!--
 **daezzato/daezzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi I'm Domenico and I'm a Full-stack software developer.
-I have knowledge in HTML, CSS, JavaScript, Tailwind, Express.js, EJS, Node.js, MongoDB and Figma.
-I'm currently learning React.
-You can also check out my website here -> 
+# I have knowledge in HTML, CSS, JavaScript, Tailwind, Express.js, EJS, Node.js, MongoDB and Figma.
+# I'm currently learning React.
+# You can also check out my website here -> 
 <!--
 **daezzato/daezzato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
